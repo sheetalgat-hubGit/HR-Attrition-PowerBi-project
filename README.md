@@ -22,40 +22,40 @@ Here’s a list of key visuals from the dashboard:
 
 1. KPI Cards:
 
-a. Total No. of Employees
-b. Total Employee Attrition Rate & Count
-c. Retention Count
-d. Average Employee Age
-e. Average Salary
+a) Total No. of Employees
+b) Total Employee Attrition Rate & Count
+c) Retention Count
+d) Average Employee Age
+e) Average Salary
 
 2. Bar Charts:
 
-Attrition by Salary Slab
-Attrition by Job Role
-Total Employees by Salary Range
+a) Attrition by Salary Slab
+b) Attrition by Job Role
+c) Total Employees by Salary Range
 
 3. Line & Area Charts:
-Attrition by Years at Company
-Attrition by Distance from Home
+a) Attrition by Years at Company
+b) Attrition by Distance from Home
 
 4. Pie & Donut Charts:
 
-Attrition by Business Travel
-Attrition by Education
+a) Attrition by Business Travel
+b) Attrition by Education
 
 5. Stacked Bar Chart:
-Attrition by Age Group and Gender
+a) Attrition by Age Group and Gender
 
 6. Matrix Table:
-Attrition by Job Role & Job Satisfaction Level
+a) Attrition by Job Role & Job Satisfaction Level
 
 7. Tree Map:
-High-Performers by Department and Job Role
+a) High-Performers by Department and Job Role
 
 8. Slicers:
-Gender
-Department
-Education
+a) Gender
+b) Department
+c) Education
 
 📷 Dashboard Image Links
 📍 ![Page 1](https://github.com/sheetalgat-hubGit/HR-Attrition-PowerBi-project/blob/main/page1.png)
