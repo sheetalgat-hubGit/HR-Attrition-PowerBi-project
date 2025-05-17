@@ -63,18 +63,21 @@ c) Education
 📍 ![Page 2](https://github.com/sheetalgat-hubGit/HR-Attrition-PowerBi-project/blob/main/page2.png)
 
 ✅ Key Conclusions
-Major Attrition occurs among employees earning less than 5k, highlighting a potential link between low salary and employee exit.
+1. Employees with lower salaries tend to leave the organization more often, indicating pay dissatisfaction.
 
-Most employees leave within the first 2-3 years, indicating issues with onboarding, role fit, or early career support.
+2. Most employees exit the company within the first few years, suggesting early-stage disengagement or unmet expectations.
 
-Research and Development has the highest attrition volume—needs targeted intervention.
+3. Laboratory Technicians, Sales Executives, and Research Scientists are the job roles with the highest attrition, signaling potential issues in these positions.
 
-Business Travel frequency (especially frequent travel) correlates with higher attrition.
+4. The Research & Development department experiences the most attrition, requiring deeper investigation.
 
-Job Satisfaction score of 1 and 2 have significantly higher attrition—employee engagement and culture may be lacking.
+5. Male employees show higher attrition, but females in the mid-age group have notable exit rates.
 
-Females aged 26-35 are a high-risk attrition group.
+6. Employees who travel frequently for business are more likely to leave, possibly due to burnout or work-life imbalance.
 
-Roles like Laboratory Technician and Sales Executive see high exit rates.
+7. Low job satisfaction levels are a major driver of attrition across roles and departments.
 
-Education fields like Life Sciences and Medical dominate attrition counts.
+8. Individuals with Life Sciences and Medical education backgrounds are seen leaving more frequently.
+
+9. Longer distances from home to the workplace correlate with higher employee turnover.
+
