@@ -58,9 +58,9 @@ Department
 Education
 
 📷 Dashboard Image Links
-📍 Page 1 - Overview & Trends     ![Page 1](https://github.com/sheetalgat-hubGit/HR-Attrition-PowerBi-project/blob/main/page1.png)
+📍 ![Page 1](https://github.com/sheetalgat-hubGit/HR-Attrition-PowerBi-project/blob/main/page1.png)
 
-📍 Page 2 - Deep-Dive Analysis    ![Page 2]()
+📍 ![Page 2](https://github.com/sheetalgat-hubGit/HR-Attrition-PowerBi-project/blob/main/page2.png)
 
 ✅ Key Conclusions
 Major Attrition occurs among employees earning less than 5k, highlighting a potential link between low salary and employee exit.
