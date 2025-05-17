@@ -22,11 +22,11 @@ Here’s a list of key visuals from the dashboard:
 
 1. KPI Cards:
 
-Total No. of Employees
-Total Employee Attrition Rate & Count
-Retention Count
-Average Employee Age
-Average Salary
+a. Total No. of Employees
+b. Total Employee Attrition Rate & Count
+c. Retention Count
+d. Average Employee Age
+e. Average Salary
 
 2. Bar Charts:
 
