@@ -2,20 +2,20 @@
 ## 🧩 Project Overview
 This project analyzes HR Attrition data to understand the factors driving employee attrition within an organization. Using Power BI, the dashboard provides interactive, data-driven insights into various dimensions like salary, gender, job roles, departments, education, and years at the company. It aims to help HR teams reduce attrition by identifying high-risk segments and retention opportunities.
 
-# 📈 Key Insights & Trends Analyzed
+## 📈 Key Insights & Trends Analyzed
 
-Total Employees vs Attrition Count
-Attrition by Salary Slab
-Attrition by Years at Company
-Attrition by Distance from Home
-Attrition by Job Role
-Attrition by Gender
-Attrition by Age Group
-Attrition by Education Level
-Attrition by Business Travel Frequency
-Job Satisfaction vs Attrition
-High-Performers by Department & Role
-Department-wise filtering for targeted analysis
+Total Employees vs Attrition,
+Attrition by Salary Slab,
+Attrition by Years at Company,
+Attrition by Distance from Home,
+Attrition by Job Role,
+Attrition by Gender,
+Attrition by Age Group,
+Attrition by Education Level,
+Attrition by Business Travel Frequency,
+Job Satisfaction vs Attrition,
+High-Performers by Department & Role,
+Department-wise filtering for targeted analysis.
 
 # 📊 Visualizations Used
 Here’s a list of key visuals from the dashboard:
