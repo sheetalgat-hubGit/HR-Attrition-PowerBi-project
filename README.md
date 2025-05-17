@@ -60,7 +60,7 @@ Education
 📷 Dashboard Image Links
 📍 Page 1 - Overview & Trends     ![Page 1]()
 
-📍 Page 2 - Deep-Dive Analysis
+📍 Page 2 - Deep-Dive Analysis    ![Page 2]()
 
 ✅ Key Conclusions
 Major Attrition occurs among employees earning less than 5k, highlighting a potential link between low salary and employee exit.
