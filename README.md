@@ -58,7 +58,7 @@ Department
 Education
 
 📷 Dashboard Image Links
-📍 Page 1 - Overview & Trends     ![Page 1]()
+📍 Page 1 - Overview & Trends     ![Page 1](https://github.com/sheetalgat-hubGit/HR-Attrition-PowerBi-project/blob/main/page1.png)
 
 📍 Page 2 - Deep-Dive Analysis    ![Page 2]()
 
